@@ -10,7 +10,7 @@ construct surfaces tessellated with pyramids
 * Each pyramid can "close" and "open" as a single degree-of-freedom mechanism.
 * A *tessellation* is a 2D grid of pyramids that are identical, initially, but that are opened or closed to various degrees.
 
-## Observations
+## Main Observation
 * Let one array of pyramids taken in a "diagonal" direction be given. The next array can be constructed by sphere intersection.
 
 ## Contents
