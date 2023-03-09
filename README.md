@@ -1,7 +1,7 @@
 # pyramids
 construct surfaces tessellated with pyramids
 
-![Example - equilateral pyramids tessellating a surface with skew symmetry](pyramidsGeneral.png)
+![Example - equilateral pyramids tessellating a surface with skew symmetry](pyramidGeneral.png)
 
 ## Preliminaries
 * A *pyramid* is composed of four triangular lateral faces and one quadrangular base.
